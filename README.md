@@ -1,24 +1,3 @@
-# darwin-ui
+# Darwin-UI
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+**A Vue.js-based UI Library based on the Apple Human Interface Design Guidelines that focuses on optimizing user experience and performance across multiple platforms.**
